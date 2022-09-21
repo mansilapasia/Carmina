@@ -1,0 +1,7 @@
+no,songname,artist,album,genre,path,images
+1,chandsaroshanchehra,mohd.rafi,kashmirkikali,romantic,test/songs/chandsa.mp3,test/images/chand.jpg
+2,badeachhelagtehai,amitkumar,ballikabadhu,romantic,test/songs/bade.mp3,test/images/
+3,lagjagale,latamangeshkar,Wohkaunthi,romantic,test/songs/lag.mp3,test/images/
+4,meresaamnewaali,kishorekumar,padosan,romantic,test/songs/saamne.mp3,test/images/
+5,ajeebdastaanhaiyeh,latamangeshkar,dilapnapreetparayi,romantic,test/songs/ajeeb.mp3,test/images/
+6,aajkalteremere,mohd.rafi,brahmachari,romantic,test/songs/aaj.mp3,test/images/

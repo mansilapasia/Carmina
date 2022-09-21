@@ -1,0 +1,11 @@
+no,songname,artist,album,path,images
+1,god'splan,drake,scaryhours,test/songs/god.mp3,test/images/god.jpg
+2,barking,ramz,barking,test/songs/barking.mp3,test/images/bark.jpg
+3,river,eminem,revival,test/songs/river.mp3,test/images/river.jpg
+4,toogoodatgoodbyes,samsmith,thethrillofitall,test/songs/too.mp3,test/images/too.jpg
+5,tiptoe,jasonderulo,tiptoe,test/songs/tiptoe.mp3,test/images/tip.jpg
+6,finesse,brunomars,finesse,test/songs/finesse.mp3,test/images/finesse.jpg
+7,perfect,edsheeran,divide,test/songs/perfect.mp3,test/images/perfect.jpg
+8,thisisme,kealasettle,thegreatestshowman,test/songs/thisis.mp3,test/images/this.jpg
+9,breathe,jaxjones,breathe,test/songs/breathe.mp3,test/images/breathe.jpg
+10,iknowyou,craigdavid,thetimeisnow,test/songs/iknow.mp3,test/images/iknow.jpg

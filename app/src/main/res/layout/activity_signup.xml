@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.meetishah.carmina.Signup"
+    android:background="@drawable/new_login_gradients">
+    <ImageView
+        android:layout_width="200dp"
+
+        android:layout_height="110dp"
+        android:layout_gravity="center_horizontal"
+        android:padding="16dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="80dp"
+        android:src="@drawable/music" />
+    <EditText
+        android:textColor="#FFF"
+        android:id="@+id/uid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="180dp"
+        android:background="@android:color/transparent"
+        android:drawableLeft="@drawable/ic_person_white_24dp"
+        android:drawablePadding="12dp"
+        android:ems="10"
+        android:hint="Username"
+        android:inputType="textEmailAddress"
+        android:padding="8dp"
+        android:textColorHint="#fff"
+
+        android:textSize="20sp" />
+
+    <EditText
+        android:inputType="textPassword"
+        android:textColor="#FFF"
+        android:id="@+id/pwd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="250dp"
+        android:background="@android:color/transparent"
+        android:drawableLeft="@drawable/ic_lock_white_24dp"
+        android:drawablePadding="12dp"
+        android:ems="10"
+        android:hint="Password"
+
+        android:padding="8dp"
+        android:textColorHint="#fff"
+
+        android:textSize="20sp" />
+    <EditText
+        android:textColor="#FFF"
+        android:id="@+id/conp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="320dp"
+        android:background="@android:color/transparent"
+        android:drawableLeft="@drawable/ic_lock_white_24dp"
+        android:drawablePadding="12dp"
+        android:ems="10"
+        android:hint="Confirm Password"
+        android:inputType="textPassword"
+        android:padding="8dp"
+        android:textColorHint="#fff"
+
+        android:textSize="20sp" />
+
+    <EditText
+        android:textColor="#FFF"
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="390dp"
+        android:background="@android:color/transparent"
+        android:drawableLeft="@drawable/email"
+        android:drawablePadding="12dp"
+        android:ems="10"
+        android:hint="Email ID"
+        android:inputType="textEmailAddress"
+        android:padding="8dp"
+        android:textColorHint="#fff"
+
+        android:textSize="20sp" />
+
+    <Button
+        android:textAlignment="center"
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/userPaassword"
+        android:layout_marginTop="460dp"
+        android:background="@drawable/background_login"
+        android:padding="16dp"
+        android:text="Sign Up"
+        android:textColor="#f16f7d"
+        android:textSize="18sp" />
+
+</RelativeLayout>

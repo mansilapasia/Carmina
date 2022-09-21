@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Screens background color-->
+    <color name="bg_screen1">#86B6C2</color>
+    <color name="bg_screen2">#ffcdd2</color>
+    <color name="bg_screen3">#c5cae9</color>
+    <color name="bg_screen4">#c8e6c9</color>
+    <color name="indigo">#c9c9c9</color>
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#a5d6a7</color>
+    <color name="dot_dark_screen2">#9fa8da</color>
+    <color name="dot_dark_screen3">#ef9a9a</color>
+    <color name="dot_dark_screen4">#99BBC3</color>
+    <color name="blue"> #0000FF</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#81c784</color>
+    <color name="dot_light_screen2">#7986cb</color>
+    <color name="dot_light_screen3">#ef7373</color>
+    <color name="dot_light_screen4">#47ACC4</color>
+
+    <color name="fullscreen_line_color">#E5FFFFFF</color>
+
+    <color name="fullscreen_secondary_line_color">#E5CCCCCC</color>
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#00FFFFFF</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#0e0e0e</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+    <color name="pink">#000000</color>
+    <color name="gray">#ffffff</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorDivider">#2FE897</color>
+    <color name="colorBorder">#a7a4a4</color>
+    <color name="colorExtra">#fffac1</color>
+    <color name="color_state_list">#ffffff</color>
+
+</resources>

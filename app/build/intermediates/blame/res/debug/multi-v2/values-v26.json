@@ -1,0 +1,90 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Meeti Shah\\AndroidStudioProjects\\Carmina\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Meeti Shah\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\156080e81c43cac929490b8776d0b7e0\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,299",
+                        "endLines": "5,6",
+                        "endColumns": "12,96",
+                        "endOffsets": "294,391"
+                    },
+                    "to": {
+                        "startLines": "16,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "896,1233",
+                        "endLines": "19,21",
+                        "endColumns": "12,96",
+                        "endOffsets": "1135,1325"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Meeti Shah\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\217e1b26d774aec4b8434e41e891fdae\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,896",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,984"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,8,12,20",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,1140",
+                        "endLines": "2,3,7,11,15,20",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,1228"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\lapasia\\AndroidStudioProjects\\Carmina\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lapasia\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d17292256687604b98ffa95f06b3d122\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,299",
+                        "endLines": "5,6",
+                        "endColumns": "12,96",
+                        "endOffsets": "294,391"
+                    },
+                    "to": {
+                        "startLines": "8,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "456,793",
+                        "endLines": "11,13",
+                        "endColumns": "12,96",
+                        "endOffsets": "695,885"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lapasia\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4968109802129b5eb202f3c957cd3015\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "5,4,4,4",
+                        "startOffsets": "56,131,218,457",
+                        "endLines": "2,3,7,8",
+                        "endColumns": "75,86,12,92",
+                        "endOffsets": "126,213,452,545"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,12",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,700",
+                        "endLines": "2,3,7,12",
+                        "endColumns": "74,86,12,92",
+                        "endOffsets": "125,212,451,788"
+                    }
+                }
+            ]
+        }
+    ]
+}

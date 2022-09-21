@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Apr 09 01:58:10 IST 2018
+1.base=C\:\\Users\\Meeti Shah\\AndroidStudioProjects\\Carmina\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\Meeti Shah\\AndroidStudioProjects\\Carmina\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+1.path=robotothin.ttf

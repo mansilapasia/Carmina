@@ -1,0 +1,11 @@
+no,song name,artist,album,path,img
+1,dil diya gallan,atif aslam,tiger zinda hai,test/songs/dil.mp3,test/img/
+2,swag se swaagat,neha bhasin,tiger zinda hai,test/songs/swa.mp3,test/img/
+3,naah,hardy sandhu,naah,test/songs/naah.mp3,test/img/
+4,ban ja rani,guru randhawa,tumhari sulu,test/songs/banja.mp3,test/img/
+5,mere rashke qamar,rahat fateh ali khan,baadshaho,test/songs/mererashke.mp3,test/img/
+6,tera zikr,darshan raval,tera zikr,test/songs/terazikr.mp3,test/img/
+7,aaj se teri,arijit singh,padman,test/songs/aajse.mp3,test/img/
+8,lae dooba,sunidhi chauhan,aiyaari,test/songs/lae.mp3,test/img/
+9,hawayein,arijit singh,jab harry met sejal,test/songs/hawayein.mp3,test/img/
+10,phir bhi tumko chaahunga,arijit singh,half girlfriend,test/songs/phir.mp3,test/img/
